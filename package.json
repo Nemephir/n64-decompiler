@@ -1,0 +1,23 @@
+{
+  "name": "n64-decompiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decompiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon decompiler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemephir/n64-decompiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemephir/n64-decompiler/issues"
+  },
+  "homepage": "https://github.com/Nemephir/n64-decompiler#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
